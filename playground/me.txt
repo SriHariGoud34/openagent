@@ -1,0 +1,5 @@
+{{#user}}
+My name is Sri Hari.
+Here are my skills : html, css ,js , python, mysql, react js, jquery . 
+My email id is sriharigoud287@gmail.com.
+ {{/user}}
